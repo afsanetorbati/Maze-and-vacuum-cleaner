@@ -1,1 +1,1 @@
-# Maze
+# Maze and vacuum cleaner
